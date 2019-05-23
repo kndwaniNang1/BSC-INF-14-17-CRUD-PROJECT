@@ -1,10 +1,4 @@
-/**
- *
- * @author arman
- * @since 10/3/2016.
- *
- */
-'use strict';
+
 import React,{Component, PropTypes} from 'react';
 import PersonForm from './PersonForm';
 
